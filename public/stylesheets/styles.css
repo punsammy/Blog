@@ -1,0 +1,25 @@
+i.icon {
+  font-size: 2em;
+}
+
+.container.main {
+  margin-top: 7.0em;
+}
+
+#delete {
+  display: inline;
+}
+
+i.right.chevron.icon {
+  padding-top: 6px;
+  vertical-align: middle;
+}
+
+.back-link {
+  color: #e6719b;
+}
+
+a:hover {
+  color: #000000;
+  font-weight: bold;
+}
